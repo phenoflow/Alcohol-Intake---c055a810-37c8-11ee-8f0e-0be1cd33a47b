@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/alcohol-intake-consumption---primary.py
+inputModule3:
+  class: File
+  path: python/alcohol-intake-drinker---primary.py
+inputModule4:
+  class: File
+  path: python/alcohol-intake-drinks---primary.py
+inputModule5:
+  class: File
+  path: python/heavy-alcohol-intake---primary.py
+inputModule6:
+  class: File
+  path: python/alcohol-intake-spirit---primary.py
+inputModule7:
+  class: File
+  path: python/alcohol-intake-limits---primary.py
+inputModule8:
+  class: File
+  path: python/current-alcohol-intake---primary.py
+inputModule9:
+  class: File
+  path: python/alcohol-intake---primary.py
+inputModule10:
+  class: File
+  path: python/alcohol-intake-drinking---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
